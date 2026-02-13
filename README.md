@@ -38,7 +38,7 @@ Gunakan rumus berikut di sel Excel Anda:
 ---
 
 ## 📖 Sintaks (Syntax)
-`=TerbilangMaster(Angka; [Mode]; [TulisSaja]; [Satuan]; [Sen])`
+`=TerbilangId(Angka; [Mode]; [TulisSaja]; [Satuan]; [Sen])`
 
 * **Angka**: Sel atau nilai angka.
 * **Mode**: 0 = Standar, 1 = Rupiah, 2 = Eja.
