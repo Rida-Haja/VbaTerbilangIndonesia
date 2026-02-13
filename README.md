@@ -31,9 +31,9 @@ Gunakan rumus berikut di sel Excel Anda:
 
 | Mode | Deskripsi (Description) | Contoh Rumus (Example) |
 | :--- | :--- | :--- |
-| **0** | **Standar** (Standard) | `=TerbilangMaster(A1; 0)` |
-| **1** | **Mata Uang** (Currency) | `=TerbilangMaster(A1; 1)` |
-| **2** | **Eja Digit** (Digit Spelling) | `=TerbilangMaster(A1; 2)` |
+| **0** | **Standar** (Standard) | `=TerbilangId(A1; 0)` |
+| **1** | **Mata Uang** (Currency) | `=TerbilangId(A1; 1)` |
+| **2** | **Eja Digit** (Digit Spelling) | `=TerbilangId(A1; 2)` |
 
 ---
 
