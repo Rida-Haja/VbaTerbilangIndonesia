@@ -4,6 +4,10 @@
 
 *The ultimate Indonesian number-to-words converter for Excel.*
 
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![VBA](https://img.shields.io/badge/Language-VBA-blue.svg)](https://learn.microsoft.com/en-us/office/vba/api/overview/)
+[![Excel](https://img.shields.io/badge/Platform-Excel-green.svg)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Architecture](https://img.shields.io/badge/Arch-32--bit%20%7C%2064--bit-orange.svg)](https://learn.microsoft.com/en-us/office/vba/library-concepts/64-bit-visual-basic-for-applications-overview)
 ---
 
 ## ✨ Fitur Utama (Key Features)
